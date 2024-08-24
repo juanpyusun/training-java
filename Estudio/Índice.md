@@ -1,26 +1,20 @@
-## Resumen
+## [[Información básica]]
 Historia, descripción y características del lenguaje
-- Historia
-- Descripción
 
-## Tipos de Datos
+## [[Tipo de datos]]
 En esta sección se describirán los tipos de datos en java y sus métodos mas comunes
-- Datos primitivos
-- Wrappers
-- Objetos
 
-## Condicionales
+## [[Condicionales]]
 En esta sección...
 
-## Ciclos
+## [[Ciclos]]
 En esta sección...
 
-## Programación Orientada a Objetos (OOP)
+## [[Contenedores]]
+En esta sección...
+
+## [[OOP]]
 Se describirán los pilares y métodos de trabajo dentro de este paradigma
 
-- Pilares POO
-- Principios de diseño]
-- Patrones de diseño
-
-## Programación Funcional (FP)
+## [[FP]]
 Se describirán los pilares y métodos de trabajo dentro de este paradigma

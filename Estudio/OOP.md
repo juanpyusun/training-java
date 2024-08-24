@@ -1,0 +1,3 @@
+- Pilares POO
+- Principios de diseño
+- Patrones de diseño
